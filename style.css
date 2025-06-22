@@ -4,7 +4,7 @@ section {
 }
 
 .custom-thumbnail {
-  border: 6px solid #e70d0d !important; /* Warna border biru Bootstrap */
+  border: 6px solid #0d52e7 !important; /* Warna border biru Bootstrap */
   box-shadow: 0 0 15px #d30f0f !important; /* Shadow default */
 }
 
@@ -43,5 +43,5 @@ section {
 }
 
 :root {
-  --my-custom-color: #eb343a;
+  --my-custom-color: #0e76ec;
 }
